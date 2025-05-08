@@ -1,6 +1,23 @@
 # 🧠 Self-Supervised Learning
 
 Ce projet présente une introduction pratique à **l'apprentissage auto-supervisé (Self-Supervised Learning - SSL)**, en s'appuyant sur des techniques modernes comme la prédiction de contexte, les puzzles Jigsaw, la colorisation d'images, l'inpainting et la rotation d'images avec **TensorFlow** et **MNIST**.
+---
+
+## 🎥 Vidéo explicative du projet
+
+▶️ [Voir la vidéo sur Google Drive](https://drive.google.com/file/d/1svQFwTPFlU88uBMeXG2GNFFpwDJCu_TD/view?usp=sharing)
+
+---
+## 👥 Équipe
+
+Ce travail a été réalisé dans le cadre du Master 1 Systèmes Informatiques Intelligents - ENS Rabat.
+
+- **EL MOUTAOUAKIL Khalid**
+- **HAMOUDAN Badreddine**
+
+Encadré par : **Pr.MAHMOUDI Abdelhak**
+
+---
 
 ## 📌 Objectif
 
