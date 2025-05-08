@@ -10,7 +10,7 @@ Ce projet présente une introduction pratique à **l'apprentissage auto-supervis
 ---
 ## 👥 Équipe
 
-Ce travail a été réalisé dans le cadre du Master 1 Systèmes Informatiques Intelligents - ENS Rabat.
+Ce travail a été réalisé dans le cadre du Master Informatiques et télécommunications (FTA) - FS Rabat.
 
 - **EL MOUTAOUAKIL Khalid**
 - **HAMOUDAN Badreddine**
